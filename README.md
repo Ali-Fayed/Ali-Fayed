@@ -1,4 +1,4 @@
-  ## Hi there, I'm Ali Fayed - ***iOS Software Engineer*** at [Banque Misr][Banque Misr]! 👋
+  ## Hi there, I'm Ali Fayed - *** Senior iOS Software Engineer*** at [Banque Misr][Banque Misr]! 👋
                                                                                                                                                              
   [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][contact]  [<img 
   alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>][fb]  [<img alt="X"       
@@ -10,7 +10,7 @@
   ***I love sharing my knowledge and experience, and contributing to open source projects related to Swift and iOS.***
                                                                                                                                                              
   - 🚀 Currently building [Finlytix][finlytix] — a personal wealth tracker for emerging markets, built with SwiftUI, SwiftData & CloudKit
-  - 🔭 Also check out my early app: [Genics][genics]                                                                                                         
+  - 🔭 Also check out my first iOS app in 2020 : [Genics][genics]                                                                                                         
   - 💼 Day job: iOS Software Engineer at [Banque Misr][Banque Misr]
   - 📚 Past explorations: [Quick Currency][Quick Currency], [Combine + UIKit][Combine with UIKit], [Combine Networking][Combine Networking]                  
   - 🌱 Currently deepening: Swift Concurrency, SwiftData, SwiftUI animations, and clean iOS architecture
