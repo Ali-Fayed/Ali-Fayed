@@ -9,12 +9,12 @@
                                                                                                                                                              
   ***I love sharing my knowledge and experience, and contributing to open source projects related to Swift and iOS.***
                                                                                                                                                              
-  - 🚀 Currently building [Finlytix][finlytix] — a personal wealth tracker for emerging markets, built with SwiftUI, SwiftData & CloudKit
-  - 🔭 Also check out my first iOS app in 2020 : [Genics][genics]                                                                                                         
-  - 💼 Day job: iOS Software Engineer at [Banque Misr][Banque Misr]
-  - 📚 Past explorations: [Quick Currency][Quick Currency], [Combine + UIKit][Combine with UIKit], [Combine Networking][Combine Networking]                  
+  - 🚀 New free open source for MacOS [Transflo] — Transflo brings file conversion, focused editing tools, and everyday file actions to your cursor
+  - 🚀 Financial App [Finlytix][finlytix] — a personal wealth tracker for emerging markets, built with SwiftUI, SwiftData & CloudKit
+  - 🔭 My first iOS app in 2020 : [Genics][genics]                                                                                                         
+  - 💼 Day job: Senior iOS Software Engineer at [Banque Misr][Banque Misr]
   - 🌱 Currently deepening: Swift Concurrency, SwiftData, SwiftUI animations, and clean iOS architecture
-  - 🥅 2026 Goals: Ship Finlytix v2, contribute to open source, explore AI-powered iOS features                                                              
+  - 🥅 2027 Goals: Ship more open source apps                                                             
   - 📫 Reach me via the links above 👆                                                                                                                       
   - ⚡ Fun fact: I love cooking 🍳, Apple products 🍎, and gaming 🎮                                                                                         
                                                                                                                                                              
@@ -23,7 +23,8 @@
                                                                                                                                                              
   Thank you :) ⭐️                                                                                                                                            
                                                                                                                                                              
-  [Finlytix]: https://apps.apple.com/eg/app/finlytix/id6761547531                                                                                                         
+  [Finlytix]: https://apps.apple.com/eg/app/finlytix/id6761547531
+  [Transflo]: https://transflo.ali-fayed.com
   [Quick Currency]: https://github.com/Ali-Fayed/QuickConverter                                                                                              
   [Banque Misr]: https://www.facebook.com/BanqueMisr.1920                                                                                                    
   [genics]: https://github.com/Ali-Fayed/Githubgenics                                                                                                        
